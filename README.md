@@ -1,0 +1,1 @@
+This Library Management System allows you to add new books and check the availability of existing ones. You can lend books to students and keep track of their borrowing history. Late fees are applied for overdue returns. Students can borrow only one book at a time, and new loans are not permitted until the previous book is returned.
